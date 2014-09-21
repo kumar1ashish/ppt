@@ -1,0 +1,16 @@
+{
+    "contents" : "---\ntitle: DeckJS\nauthor: Ramnath Vaidyanathan\nframework: deckjs\ndeckjs: {theme: web-2.0}\nhighlighter: highlight.js\nhitheme    : solarized_light\n---\n---\n\n## What is R?\n<iframe id=\"player\" type=\"text/html\" width=\"640\" height=\"390\"\n  src=\"http://www.youtube.com/embed/TR2bHSJ_eck?enablejsapi=1&origin=http://example.com \"allowfullscreen></iframe>\n\n---\n\n",
+    "created" : 1411297814319.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "245273979",
+    "id" : "D193B861",
+    "lastKnownWriteTime" : 1411297913,
+    "path" : "~/ppt/pptf.Rpres",
+    "project_path" : "pptf.Rpres",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_presentation"
+}

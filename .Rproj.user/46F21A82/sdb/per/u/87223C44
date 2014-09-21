@@ -1,0 +1,17 @@
+{
+    "contents" : "---\ntitle       : The Way to Computational Communication\nsubtitle    : \nauthor      : Cheng-Jun Wang\njob         : Web Mining Web, City University of Hong Kong\nframework   : io2012        # {io2012, html5slides, shower, dzslides, ...}\nhighlighter : highlight.js  # {highlight.js, prettify, highlight}\nhitheme     : tomorrow      # \nwidgets     : []            # {mathjax, quiz, bootstrap}\nmode        : standalone # {standalone, draft, selfcontained}\n---\n\n## Three metaphors of theory\n>Immanuel Kant: All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.\n\n![](http://farm8.staticflickr.com/7379/9532736494_99b95287a2_z.jpg)\n\n--- .class #slides\n\n## Sandglass of generalization\n\n![](http://farm8.staticflickr.com/7366/9529954881_53a00fe15b_z.jpg)\n\n---\n## Five levels of Research\n\n![](http://farm3.staticflickr.com/2819/9529954801_e6d59c8eba_z.jpg)\n\n---\n## Computational Thinking\n\n![](http://farm4.staticflickr.com/3669/9529954763_06a6c95970_z.jpg)\n\n---\n## The Way to Computational Communication\n\n![](http://farm6.staticflickr.com/5540/9529954731_4cbf032b06_z.jpg)\n\n---\n\n## Network Science\n\n![](http://farm8.staticflickr.com/7353/9529954585_94686e3aa4_z.jpg)\n\n--- .class1 #id1 bg:yellow\n\n\n## What should we do?\n\n\n- Network science\n- Statistical linguistics\n- Human dynamics\n- Big data& digital traces\n- Digital media\n- Data journalism\n- Computational advertising\n\n![](http://gifs.gifbin.com/1236681924_snail_transformers.gif)\n\n---\n\n## Thank you for your attention!\n\n## wangchj04@gmail.com\n\n![](http://farm3.staticflickr.com/2840/9508319890_2cbaa2c4d4_n.jpg)\n",
+    "created" : 1411296193097.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "3226252445",
+    "id" : "87223C44",
+    "lastKnownWriteTime" : 2481051765037560417,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
